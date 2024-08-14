@@ -1,10 +1,10 @@
 spring:
   application:
-    name: patient-service
+    name: author-service
   data:
     mongodb:
       uri: mongodb://localhost:27017
-      database: author_service
+      database: author-service
 #      username:
 #      password:
 server:
